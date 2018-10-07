@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/akasamar/Desktop/rush00/main.cpp
+rush00.hpp
+/Users/akasamar/Desktop/rush00/rush00.hpp
+
+/Users/akasamar/Desktop/rush00/rush00.hpp
+string
+-
+iostream
+-
+ncurses.h
+-
+unistd.h
+-
+

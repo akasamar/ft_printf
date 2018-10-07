@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99fdf966-9e24-4b13-823c-311fcc1f4c5b" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1/ex02/doft.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1/ex02/doft.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1/ex02/resources/arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1/ex02/resources/book.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1/ex02/resources/brick.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1/ex02/resources/chat-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1/ex02/resources/close.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1/ex02/resources/cluster.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1/ex02/resources/day_of_the_42.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1/ex02/resources/doft.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1/ex02/resources/loupe.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1/ex02/resources/main.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1/ex02/resources/oeil.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1/ex02/resources/outil.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1/ex02/resources/reload.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1/ex02/resources/towel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/123/666/ex00/hw.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/123/666/ex01/mlx.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/123/666/ex02/oddeven.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/123/666/ex03/ft_split.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/123/666/ex04/aff_param.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/123/666/ex05/epur_str.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/123/666/ex06/ssap.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/123/666/ex07/rosting.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/123/666/ex08/ft_is_sort.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/123/666/ex09/ssap2.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/123/666/ex10/do_op.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/555/ex00/hw.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/555/ex01/mlx.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/555/ex02/oddeven.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/555/ex03/ft_split.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/555/ex04/aff_param.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/555/ex05/epur_str.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/555/ex06/ssap.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/555/ex07/rosting.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/555/ex08/ft_is_sort.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/555/ex09/ssap2.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/555/ex10/do_op.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Archive.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/akasamar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/asd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/day01/ex00/hw.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/day01/ex01/mlx.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/day01/ex02/oddeven.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/day01/ex03/ft_split.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/day01/ex04/aff_param.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/day01/ex05/epur_str.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/day01/ex06/ssap.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/day01/ex07/rosting.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/day01/ex08/ft_is_sort.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/day01/ex09/ssap2.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/day01/ex10/do_op.php" afterPath="" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/Skype.app/Contents/Resources/app.asar.unpacked/node_modules" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="580" />
+    <option name="y" value="191" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99fdf966-9e24-4b13-823c-311fcc1f4c5b" name="Default" comment="" />
+      <created>1530555146728</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530555146728</updated>
+      <workItem from="1530555157011" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="16000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="580" y="191" width="1400" height="1000" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>

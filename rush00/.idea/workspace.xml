@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="rush00" targetName="rush00" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b645460e-9405-4014-a9f0-71583c5ea095" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0077" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Corewar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day00/ex00/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day00/ex00/.idea/ex00.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day00/ex00/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day00/ex00/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day00/ex00/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day00/ex00/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day00/ex00/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day00/ex00/megaphone.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day00/ex01/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day00/ex01/.idea/ex01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day00/ex01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day00/ex01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day00/ex01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day00/ex01/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day00/ex01/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day00/ex01/phonebook" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day00/ex01/phonebook.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day00/ex01/phonebook.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day00/ex02/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day00/ex02/.idea/ex02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day00/ex02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day00/ex02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day00/ex02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day00/ex02/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day00/ex02/Account.class.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day01/ex00/Pony.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day01/ex00/Pony.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day01/ex00/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day01/ex01/ex01.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day01/ex02/Zombie.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day01/ex02/Zombie.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day01/ex02/ZombieEvent.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day01/ex02/ZombieEvent.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day01/ex02/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day01/ex03/Zombie.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day01/ex03/Zombie.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day01/ex03/ZombieHorde.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day01/ex03/ZombieHorde.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day01/ex03/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day01/ex04/ex04.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day01/ex05/Brain.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day01/ex05/Brain.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day01/ex05/Human.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day01/ex05/Human.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day01/ex05/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day01/ex06/HumanA.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day01/ex06/HumanA.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day01/ex06/HumanB.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day01/ex06/HumanB.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day01/ex06/Weapon.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day01/ex06/Weapon.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day01/ex06/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day01/ex07/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day01/ex07/file" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day01/ex07/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day02/ex00/Fixed.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day02/ex00/Fixed.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day02/ex00/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day02/ex01/Fixed.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day02/ex01/Fixed.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day02/ex01/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day02/ex02/Fixed.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day02/ex02/Fixed.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cplus/day02/ex02/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MAMP" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Screen Shot 2018-07-03 at 6.25.23 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Screen Shot 2018-10-01 at 1.48.15 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Screen Shot 2018-10-01 at 4.22.31 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Screen Shot 2018-10-02 at 5.37.14 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Screen Shot 2018-10-02 at 6.08.49 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Untitled.rtf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coreviz.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../corewar 2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../corewar 2.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../corewar.en.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../corewar2018/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../corewar2018/ft_bits.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../corewar2018/ft_operations.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../corewar2018/ft_operations.c.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../corewar2018/vm_cw.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../filler" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../filler.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../filllller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../filllller.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gnl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../htdocs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lemin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maps.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../plusplus.rtf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../printf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources_corewar.en.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vizual.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/42.cor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/42.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/Backward.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/Car.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/Death.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/Gagnant.cor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/Gagnant.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/Octobre_Rouge_V4.2.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/Survivor.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/Torpille.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/barriere.cor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/barriere.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/championships/2014/bguy/sam_2.0.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/championships/2014/bjacob/doge.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/championships/2014/brandazz/Rainbow_dash.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/championships/2014/cdivry/youforkmytralala.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/championships/2014/clafleur/big_feet.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/championships/2014/dcohen/loose.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/championships/2014/ekocevar/mandragore.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/championships/2014/esusseli/gedeon.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/championships/2014/evlasova/terminator.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/championships/2014/fcorre/ultimate-surrender.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/championships/2014/gbir/_.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/championships/2014/gjestin/salamahenagalabadoun.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/championships/2014/gleger/Machine-gun.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/championships/2014/gmange/corelol.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/championships/2014/gpetrov/MarineKing.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/championships/2014/gudepard/Kappa.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/championships/2014/hmichals/Wall.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/championships/2014/hmoutaou/Misaka_Mikoto.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/championships/2014/kelickel/Varimathras.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/championships/2014/kmonrose/justin_bee.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/championships/2014/ldesgoui/_honeybadger.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/championships/2014/lseguin/skynet.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/championships/2014/lsirigna/live.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/championships/2014/mbacoux/meowluigi.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/championships/2014/mconraux/dubo.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/championships/2014/rabid-on/jinx.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/championships/2014/results.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/championships/2014/rmasse/THUNDER.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/championships/2014/sbuono/Asombra.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/championships/2014/srabah-m/littlepuppy.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/championships/2014/tdemay/champ.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/championships/2014/vrey/darksasuke.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/championships/2014/ybouvet/casimir.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/championships/2017/adenis/Explosive_Kitty.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/championships/2017/agregoir/Kittystrophic.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/championships/2017/gnebie/ultima.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/championships/2017/iburel/gateau.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/championships/2017/jaustry/mise_a_jour_windows95.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/championships/2017/nolivier/run_Kitty_RUN.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/championships/2017/pzarmehr/overwatch.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/championships/2017/tbillard/Douceur_power.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/ex.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/examples/bee_gees.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/examples/bigzork.cor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/examples/bigzork.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/examples/fluttershy.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/examples/helltrain.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/examples/turtle.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/examples/zork.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/jumper.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/lde.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/leeloo.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/mat.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/maxidef.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/mortel.cor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/mortel.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/new.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/sebc.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/slider2.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/tdc2.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/tdc3.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/tdc4.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/champs/toto.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vm_champs/corewar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Архив.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Архив/DataBase/auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Архив/DataBase/change_category.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Архив/DataBase/change_product.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Архив/DataBase/change_usr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Архив/DataBase/connection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Архив/DataBase/create_usr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Архив/DataBase/db_conf.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Архив/DataBase/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Архив/DataBase/reg_form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Архив/DataBase/sign_in.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Архив/add_to_cart.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Архив/ft_minishop.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Архив/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Архив/nav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Архив/reg_form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Архив/resources/Sessel-coloured.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Архив/resources/basket.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Архив/resources/image1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Архив/resources/image3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Архив/resources/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Архив/resources/logo1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/ex02/doft.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/ex02/doft.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/ex02/resources/arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/ex02/resources/book.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/ex02/resources/brick.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/ex02/resources/chat-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/ex02/resources/close.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/ex02/resources/cluster.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/ex02/resources/day_of_the_42.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/ex02/resources/doft.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/ex02/resources/loupe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/ex02/resources/main.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/ex02/resources/oeil.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/ex02/resources/outil.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/ex02/resources/reload.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/ex02/resources/towel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../123/666/ex00/hw.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../123/666/ex01/mlx.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../123/666/ex02/oddeven.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../123/666/ex03/ft_split.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../123/666/ex04/aff_param.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../123/666/ex05/epur_str.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../123/666/ex06/ssap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../123/666/ex07/rosting.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../123/666/ex08/ft_is_sort.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../123/666/ex09/ssap2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../123/666/ex10/do_op.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../555/ex00/hw.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../555/ex01/mlx.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../555/ex02/oddeven.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../555/ex03/ft_split.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../555/ex04/aff_param.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../555/ex05/epur_str.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../555/ex06/ssap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../555/ex07/rosting.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../555/ex08/ft_is_sort.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../555/ex09/ssap2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../555/ex10/do_op.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Archive.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../akasamar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day01/ex00/hw.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day01/ex01/mlx.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day01/ex02/oddeven.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day01/ex03/ft_split.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day01/ex04/aff_param.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day01/ex05/epur_str.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day01/ex06/ssap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day01/ex07/rosting.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day01/ex08/ft_is_sort.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day01/ex09/ssap2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day01/ex10/do_op.php" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="-882330906">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Makefile" value="1" />
+          <entry key="cbp" value="1" />
+          <entry key="cpp" value="14" />
+          <entry key="hpp" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="ObjectiveC" value="26" />
+          <entry key="PLAIN_TEXT" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Makefile" value="141" />
+          <entry key="cpp" value="3625" />
+          <entry key="hpp" value="888" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="ObjectiveC" value="4513" />
+          <entry key="PLAIN_TEXT" value="141" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Makefile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/BulletClass.hpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/myGameClass.hpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/rush00.hpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/SpaceShipClass.hpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="89" column="9" selection-start-line="89" selection-start-column="9" selection-end-line="89" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BulletClass.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/myGameClass.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SpaceShipClass.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SpaceShip.cpp" />
+        <option value="$PROJECT_DIR$/SpaceShip.hpp" />
+        <option value="$PROJECT_DIR$/myGame.Class.hpp" />
+        <option value="$PROJECT_DIR$/SpaceShip.Class.hpp" />
+        <option value="$PROJECT_DIR$/SpaceShip.Class.cpp" />
+        <option value="$PROJECT_DIR$/myGameClass.cpp" />
+        <option value="$PROJECT_DIR$/myGameClass.hpp" />
+        <option value="$PROJECT_DIR$/rush00.hpp" />
+        <option value="$PROJECT_DIR$/SpaceShipClass.cpp" />
+        <option value="$PROJECT_DIR$/BulletClass.hpp" />
+        <option value="$PROJECT_DIR$/BulletClass.cpp" />
+        <option value="$PROJECT_DIR$/SpaceShipClass.hpp" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/Makefile" />
+        <option value="$PROJECT_DIR$/includes/myGameClass.hpp" />
+        <option value="$PROJECT_DIR$/includes/rush00.hpp" />
+        <option value="$PROJECT_DIR$/includes/SpaceShipClass.hpp" />
+        <option value="$PROJECT_DIR$/src/main.cpp" />
+        <option value="$PROJECT_DIR$/src/BulletClass.cpp" />
+        <option value="$PROJECT_DIR$/src/myGameClass.cpp" />
+        <option value="$PROJECT_DIR$/src/SpaceShipClass.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="765" />
+    <option name="y" value="333" />
+    <option name="width" value="1400" />
+    <option name="height" value="1125" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="rush00" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rush00" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rush00" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rush00" type="462c0819:PsiDirectoryNode" />
+              <item name="cmake-build-debug" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rush00" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rush00" type="462c0819:PsiDirectoryNode" />
+              <item name="includes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rush00" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rush00" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.rush00">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rush00" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="rush00" TARGET_NAME="rush00" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="rush00" RUN_TARGET_NAME="rush00">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.rush00" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b645460e-9405-4014-a9f0-71583c5ea095" name="Default Changelist" comment="" />
+      <created>1538808946855</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538808946855</updated>
+      <workItem from="1538808974063" duration="39000" />
+      <workItem from="1538809040444" duration="14681000" />
+      <workItem from="1538832027367" duration="281000" />
+      <workItem from="1538843352345" duration="455000" />
+      <workItem from="1538847623144" duration="539000" />
+      <workItem from="1538849831518" duration="153000" />
+      <workItem from="1538909319214" duration="3180000" />
+      <workItem from="1538912726850" duration="4160000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="23488000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="765" y="333" width="1400" height="1125" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27172312" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32929516" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="CMake" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" visible="true" weight="0.2894482" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/rush00.cbp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpaceShip.cpp" />
+    <entry file="file://$PROJECT_DIR$/SpaceShip.hpp" />
+    <entry file="file://$PROJECT_DIR$/myGame.Class.hpp" />
+    <entry file="file://$PROJECT_DIR$/SpaceShip.Class.cpp" />
+    <entry file="file://$PROJECT_DIR$/SpaceShip.Class.hpp" />
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rush00.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+          <folding>
+            <element signature="e#931#957#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Cplus/day01/ex03/ZombieHorde.hpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Cplus/day01/ex03/ZombieHorde.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpaceShipClass.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="11" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BulletClass.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpaceShipClass.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+          <folding>
+            <element signature="e#947#964#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myGameClass.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#941#958#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myGameClass.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="144" column="5" selection-start-line="144" selection-start-column="5" selection-end-line="144" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BulletClass.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="11" lean-forward="true" selection-start-line="36" selection-start-column="11" selection-end-line="36" selection-end-column="11" />
+          <folding>
+            <element signature="e#941#958#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/myGameClass.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/BulletClass.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/rush00.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/SpaceShipClass.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="89" column="9" selection-start-line="89" selection-start-column="9" selection-end-line="89" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BulletClass.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/myGameClass.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SpaceShipClass.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
