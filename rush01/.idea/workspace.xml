@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="rush01" targetName="rush01" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4ede0fde-82ca-49be-9d3e-6c236d5034e2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../0077" beforeDir="false" afterPath="$PROJECT_DIR$/../0077" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Corewar" beforeDir="false" afterPath="$PROJECT_DIR$/../Corewar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Periodic_table_ru.svg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../corewar 2" beforeDir="false" afterPath="$PROJECT_DIR$/../corewar 2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../plusplus.rtf" beforeDir="false" afterPath="$PROJECT_DIR$/../plusplus.rtf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rororo/ex00/Fixed.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rororo/ex00/Fixed.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rororo/ex00/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rororo/ex01/Fixed.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rororo/ex01/Fixed.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rororo/ex01/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rororo/ex02/Fixed.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rororo/ex02/Fixed.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rororo/ex02/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/#SpaceShip.cpp#" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/-lncurses" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/.idea/rush00.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/BulletClass.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/SpaceShipClass.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/cmake-build-debug/CMakeFiles/3.12.1/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/cmake-build-debug/CMakeFiles/3.12.1/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/cmake-build-debug/CMakeFiles/3.12.1/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/cmake-build-debug/CMakeFiles/3.12.1/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/cmake-build-debug/CMakeFiles/3.12.1/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/cmake-build-debug/CMakeFiles/3.12.1/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/cmake-build-debug/CMakeFiles/3.12.1/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/cmake-build-debug/CMakeFiles/3.12.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/cmake-build-debug/CMakeFiles/3.12.1/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/cmake-build-debug/CMakeFiles/Progress/1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/cmake-build-debug/CMakeFiles/Progress/2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/cmake-build-debug/CMakeFiles/Progress/count.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/cmake-build-debug/CMakeFiles/rush00.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/cmake-build-debug/CMakeFiles/rush00.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/cmake-build-debug/CMakeFiles/rush00.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/cmake-build-debug/CMakeFiles/rush00.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/cmake-build-debug/CMakeFiles/rush00.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/cmake-build-debug/CMakeFiles/rush00.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/cmake-build-debug/CMakeFiles/rush00.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/cmake-build-debug/CMakeFiles/rush00.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/cmake-build-debug/CMakeFiles/rush00.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/cmake-build-debug/CMakeFiles/rush00.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/cmake-build-debug/rush00.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/ft_retro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/includes/BulletClass.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/includes/SpaceShipClass.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/includes/SpaceShipClass.hpp.gch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/includes/myGameClass.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/includes/myGameClass.hpp.gch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/includes/rush00.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/includes/rush00.hpp.gch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/myGameClass.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/src/BulletClass.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/src/SpaceShipClass.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/src/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush00/src/myGameClass.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Архив.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Архив/DataBase/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Архив/DataBase/change_category.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Архив/DataBase/change_product.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Архив/DataBase/change_usr.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Архив/DataBase/connection.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Архив/DataBase/create_usr.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Архив/DataBase/db_conf.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Архив/DataBase/logout.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Архив/DataBase/reg_form.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Архив/DataBase/sign_in.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Архив/add_to_cart.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Архив/ft_minishop.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Архив/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Архив/nav.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Архив/reg_form.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Архив/resources/Sessel-coloured.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Архив/resources/basket.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Архив/resources/image1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Архив/resources/image3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Архив/resources/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Архив/resources/logo1.png" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1078844410">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cpp" value="5" />
+          <entry key="hpp" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="ObjectiveC" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cpp" value="2663" />
+          <entry key="hpp" value="577" />
+          <entry key="txt" value="48" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CMakeLists.txt" value="48" />
+          <entry key="ObjectiveC" value="3240" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Ncurse.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="902">
+              <caret line="208" column="18" selection-start-line="208" selection-start-column="18" selection-end-line="208" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ncurse.hpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="12" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="12" />
+              <folding>
+                <element signature="e#931#950#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App.hpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="675">
+              <caret line="45" selection-start-line="45" selection-end-line="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/System.cpp" />
+        <option value="$PROJECT_DIR$/System.hpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/App.cpp" />
+        <option value="$PROJECT_DIR$/App.hpp" />
+        <option value="$PROJECT_DIR$/create_monitor.cpp" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/Ncurse.hpp" />
+        <option value="$PROJECT_DIR$/Ncurse.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="894" />
+    <option name="y" value="23" />
+    <option name="width" value="1795" />
+    <option name="height" value="1192" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="rush01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rush01" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.rush01">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rush01" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="rush01" TARGET_NAME="rush01" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="rush01" RUN_TARGET_NAME="rush01">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.rush01" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ede0fde-82ca-49be-9d3e-6c236d5034e2" name="Default Changelist" comment="" />
+      <created>1539427725395</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539427725395</updated>
+      <workItem from="1539427729206" duration="1351000" />
+      <workItem from="1539430672775" duration="14788000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="16139000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="894" y="23" width="1795" height="1192" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19623503" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CMake" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/System.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/System.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="18" lean-forward="true" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+          <folding>
+            <element signature="e#931#950#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/create_monitor.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ncurse.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="12" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="12" />
+          <folding>
+            <element signature="e#931#950#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ncurse.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="902">
+          <caret line="208" column="18" selection-start-line="208" selection-start-column="18" selection-end-line="208" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
